@@ -1,18 +1,13 @@
 # Jekyll template
-Light and beautiful blog style template for jekyll
 
-[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Twitter](https://img.shields.io/badge/Twitter-@slender_rich-blue.svg?style=flat)](https://twitter.com/slender_rich)
+![travis](https://travis-ci.org/edwork/jekyll-edwork-template.svg?branch=gh-pages)
 
-![preview](http://i.imgur.com/UzW9sxd.jpg)
+Light and beautiful edwork blog style template for jekyll, adapted from nikrich/jekyll-wing-template to have red and blue accents.
+
+![preview](https://i.imgur.com/wY1wLKT.png)
 
 ## Demo
-Find a demo [here](http://nikrich.github.io/jekyll-wing-template/#)
+Find a demo [here](http://edwork.github.io/jekyll-edwork-template/#)
 
-## Contributing
-
-1. Clone the repo
-2. Checkout the dev branch ( Do not work directly on master )
-3. Use ```jekyll serve``` to run the project
-4. Make your changes and test
-5. Submit a pull request
+## Credit
+Credit goes to nikrich/jekyll-wing-template for the original theme. Edwork logo and background have been made by myself.
